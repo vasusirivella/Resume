@@ -7,6 +7,7 @@
         .resume {
             padding-right: 10%;
             padding-left: 10%;
+            border: 4px solid black;
             background-color: bisque;
         }
         .title {
