@@ -1,11 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="styles.css">
     <title>Resume</title>
+        <style>
+        .resume {
+            padding-right: 10%;
+            padding-left: 10%;
+            background-color: bisque;
+        }
+        .title {
+            text-align: center;
+        }
+        ul {
+            list-style-type: circle;
+        }
+    </style>
 </head>
 <body class="resume">
     <div class="title">
@@ -118,8 +129,5 @@
                 </ul>
             </div>
         </div>
-
-
 </body>
-
 </html>
