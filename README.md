@@ -5,16 +5,36 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Resume</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <style>
+        .resume {
+            padding-right: 10%;
+            padding-left: 10%;
+            background-color: bisque;
+            border: 4px solid black;
+        }
+        .title {
+            text-align: center;
+        }
+        ul {
+            list-style-type: circle;
+        }
+        .photo {
+            padding-right: 3cm;
+            float: right;
+        }
+        img {
+            height: 3.5cm;
+            width: 3cm;
+        }
+    </style>
 </head>
-
 <body>
     <form class="resume">
-            <div class="title">
-                <div class="photo"><img src="myphoto.jpg" alt="User Photo"></div>
-                <h1 class="name">SIRIVELLA VASU</h1>
-                <p>Cell No: <b>+91 6301179298</b> <br> Email Id: <b>sirivellavasu551@gmail.com</b></p>
-            </div>
+        <div class="title">
+            <div class="photo"><img src="myphoto.jpg" alt="User Photo"></div>
+            <h1 class="name">SIRIVELLA VASU</h1>
+            <p>Cell No: <b>+91 6301179298</b> <br> Email Id: <b>sirivellavasu551@gmail.com</b></p>
+        </div>
         <div>
             <h3>OBJECTIVE:
                 <hr>
@@ -132,4 +152,5 @@
             </div>
     </form>
 </body>
+
 </html>
