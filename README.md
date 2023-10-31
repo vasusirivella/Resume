@@ -147,7 +147,5 @@
                         <li>Interests: Playing Games, Reading, Writing & Watching Movies.</li>
                     </ul>
                 </div>
-            </div>
-    </form>
-        </body>
+            </div></form></body>
 </html>
