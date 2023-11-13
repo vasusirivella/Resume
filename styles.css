@@ -1,1 +1,20 @@
-
+.resume {
+    padding-right: 10%;
+    padding-left: 10%;
+    background-color: bisque;
+    border: 4px solid black;
+}
+.title {
+    text-align: center;
+}
+ul {
+    list-style-type: circle;
+}
+.photo {
+    padding-right: 3cm;
+    float: right;
+}
+img {
+    height: 3.5cm;
+    width: 3cm;
+}
